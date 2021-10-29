@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HardTuga
 - 👀 I’m interested in Videogames, Anime, Music and other Geek things
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C at 42 Lisboa
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pedrocmartins42@gmail.com
 
