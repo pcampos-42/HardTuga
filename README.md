@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @HardTuga
-- 👀 I’m interested in Videogames, Anime, Music and other Geek things
-- 🌱 I’m currently learning C at 42 Lisboa
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me pedrocmartins42@gmail.com
+- 👋 Hi, I’m Pedro and I’m currently learning programing at 42 Lisboa.
 
 <!---
 HardTuga/HardTuga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
